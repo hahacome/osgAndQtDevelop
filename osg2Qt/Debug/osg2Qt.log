@@ -1,0 +1,14 @@
+﻿  Moc'ing osgwidget.h...
+  Qt: Untested Windows version 10.0 detected!
+  moc_osg2qt.cpp
+D:\code\QtProject\osgdepend\include\osg/Quat : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  moc_osgwidget.cpp
+D:\code\QtProject\osgdepend\include\osg/Quat : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  main.cpp
+D:\code\QtProject\osgdepend\include\osg/Quat : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  osg2qt.cpp
+D:\code\QtProject\osgdepend\include\osg/Quat : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  osgwidget.cpp
+D:\code\QtProject\osgdepend\include\osg/Quat : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  osg2Qt.vcxproj -> D:\code\QtProject\osg2Qt\Win32\Debug\osg2Qt.exe
